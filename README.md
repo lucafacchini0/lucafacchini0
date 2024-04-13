@@ -1,5 +1,7 @@
 ## Hey everyone, I'm Luca! 👋
 #### I'm a 17 years old Computer Science student. 👨‍🎓  
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
   
 I love the world of algorithms, networking and cybersecurity. 
   
