@@ -1,4 +1,4 @@
-![Custom Image]([https://i.imgur.com/mKrb3h0.png](https://i.imgur.com/BQaEYVz.png))
+![Custom Image](https://i.imgur.com/BQaEYVz.png)
 [![GitHub Followers](https://img.shields.io/github/followers/lucafacchini0?color=4B7BEC&logo=github&style=for-the-badge&label=GitHub%20Followers)](https://github.com/lucafacchini0)
 [![GitHub Stars](https://img.shields.io/github/stars/lucafacchini0?color=F5C542&logo=github&style=for-the-badge&label=GitHub%20Stars)](https://github.com/lucafacchini0?tab=stars)
 [![Discord](https://img.shields.io/discord/677701098101932032?color=7289DA&logo=discord&style=for-the-badge&label=Discord)](https://discord.com/users/lucafacchini0)
