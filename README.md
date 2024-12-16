@@ -15,7 +15,7 @@ I’m always eager to learn, grow, and make a meaningful impact in my field.
 ## More About Me 🌟
 Explore my personal website, where I share blog posts, notes, and ideas. It’s a space where I dive deeper into my interests and experiences.
 
-🌐 <a href="https://lucafacchini0.github.io" target="_blank">Visit my site</a>
+🌐 <a href="https://lucafacchini0.github.io" target="_blank">Visit my website</a>
 
 
 ## My stats
