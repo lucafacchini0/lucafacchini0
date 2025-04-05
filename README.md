@@ -6,7 +6,7 @@
 
 ## Hey there! 👋
 
-I’m **Luca Facchini**, a 17-year-old student from Italy with a deep passion for the world of technology.
+I’m **Luca Facchini**, a 18-year-old student from Italy with a deep passion for the world of technology.
 
 I’m fascinated by coding, networking, and cybersecurity—those challenging yet captivating aspects of IT. I thrive on working with 1s and 0s and enjoy using my mind to solve complex problems and think critically.
 
